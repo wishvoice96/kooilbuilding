@@ -14,9 +14,7 @@
   <script_inc:jquery/>
   <script_inc:semantic.ui.js/>
   <style type="text/css">
-    body {
-      background-color: #DADADA;
-    }
+    body {background-color: #DADADA;}
     body > .grid {
       height: 100%;
     }
